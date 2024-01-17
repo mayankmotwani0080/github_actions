@@ -1,2 +1,2 @@
 # github_actions
-my first automation
+my first test file
